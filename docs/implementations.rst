@@ -38,6 +38,7 @@ AutobahnPython_     Python 2/3, Twisted and asyncio     WAMP client library + We
 awre_               Erlang                              awre is a WAMP V2 implementation in `Erlang <http://www.erlang.org/>`_ with client roles.
 Backbone_           JavaScript                          Allows two-way synchronisation of Backbone models & collections between frontends and backends.
 connectanum_        Java, Netty                         A Java WAMP implementation based on Netty. Both Client and Router roles.
+connectanum-dart_   Dart, Flutter                       A WAMP client implementation for the `dart language <https://dart.dev/>`_ and `flutter <https://flutter.dev/>`_ projects.
 CppWAMP_            C++ 11                              CppWAMP is a WAMP V2 implementation in C++11.
 haskell-wamp_       Haskell                             An experimental Haskell implementation of WAMP Basic Profile.
 kraftfahrstrasse_   TypeScript                          Modern WAMP Client library for browsers and node utilizing native ES6+.
@@ -57,6 +58,7 @@ Swamp_              Swift                               WAMP client library in p
 wampcc_             C++                                 A C++ WAMP library that aims to depend only on C libraries. Includes a basic router.
 WAMP_POCO_          C++                                 A fork of AutobahnCpp that is using `POCO <http://pocoproject.org/>`_ instead of Boost.
 wamped_             C++                                 Intended for running on `ARM mbed OS <https://www.mbed.com/en/>`_. Experimental.
+WAMPexClient_       Elixir                              Elixir client library that implements the complete client Basic Profile and much of the Advanced Profile.
 WampSyncClient_      PHP                                 Synchronous (blocking) PHP client implementing Caller and Publisher roles
 wamprx.js_          TypeScript                          Simple WAMP TypeScript client-side implementation (of course also usable in JavaScript). It heavily relies on RxJS.
 WampSharp_          C#                                  C# implementation of WAMP: both client and router roles, both JSON and `MessagePack <http://msgpack.org/>`_ support.
@@ -106,7 +108,8 @@ Wiola_              Lua                                 Router implementation in
 .. _Bondy: https://gitlab.com/leapsight/bondy
 .. _Bonefish: https://github.com/tplgy/bonefish
 .. _Cargotube: https://github.com/CargoTube/cargotube
-.. _connectanum: http://www.connectanum.com/
+.. _connectanum: https://www.connectanum.com/
+.. _connectanum-dart: https://pub.dev/packages/connectanum/
 .. _CppWAMP: https://github.com/ecorm/cppwamp
 .. _Crossbar: https://crossbar.io
 .. _CrossbarFX: https://crossbario.com
@@ -131,6 +134,7 @@ Wiola_              Lua                                 Router implementation in
 .. _wampcc: https://github.com/darrenjs/wampcc
 .. _WAMP_POCO: https://github.com/rafzi/WAMP_POCO
 .. _wamped: https://github.com/alvistar/wamped
+.. _WAMPexClient: https://gitlab.com/entropealabs/wampex_client
 .. _WampSyncClient: https://github.com/jszczypk/WampSyncClient
 .. _wamprt: https://github.com/Orange-OpenSource/wamp.rt
 .. _wamprx.js: https://github.com/Jopie64/wamprx.js
